@@ -1,0 +1,3 @@
+1 Git Clone
+2.cd gittest
+3. git status
